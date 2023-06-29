@@ -1,0 +1,4 @@
+Aplikacja napisana w języku C++ w Qt.
+
+Pozwala użytkownikowi na grę przeciwko drugiej osobie, jak i na grę ze sztuczną inteligencją.
+AI posiada wybór opcji - słaby gracz (użytkownik ma możliwość wygrania) oraz silny gracz (użytkownik nie ma możliwości wygrania)
